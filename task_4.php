@@ -1,6 +1,6 @@
 <?php
 $array = [
     "string" => "Hi",
-    0 => "int",
+    5 => "int",
     true => "bool"
 ];
